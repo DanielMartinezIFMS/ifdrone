@@ -21,12 +21,12 @@ um arduino foi ligado ao motor e aos sensores, conectado ao computador por usb.
   
   <div>
 
-### Video
+### Video to Teste
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SpUlcZ5CEEejMFmJ/0.jpg)](https://www.youtube.com/watch?v=SpUlcZ5CEEejMFmJ)
-
-   
-    
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DHbbZP4LOAc
+" target="_blank"><img src="http://img.youtube.com/vi/DHbbZP4LOAc/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
   
   </div>
+  
 </div>
