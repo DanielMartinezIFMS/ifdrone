@@ -1,26 +1,47 @@
+
 # ifdrone
 Repositorio de desenvolvimento de drones de pulverização de baixo custo.
 Aqui você encontrará a memória de desenvolvimento da tecnologia de construção de drones hexacopteros de pulverização, assim como documentação e demais informações que permitirão a reprodução deste projeto.
 
-Fases em andamento:
-3. Conjunto de Controle
-  3.1 
-  
-2. Modelagem de estrutuda do drone hexacoptero para voo vertical limitado por cabo guia.
-  2.1 Modelagem 3d e impressão (modelo: Phex-v1 Prototipo de Hexacoptero Versão 1)
-    2.1.1 Ponta de acoplamento do motor
-    2.1.2 Corpo Central
-    2.1.3 Limitador de curso
-    2.1.4 Acoplador de pouso e decolagem guiado
-    2.1.5 Ciscuito de controle
-    2.1.6 Testes
-    2.1.7 Resultados
+O Objetivo geral do projeto é construir um drone de pulverização usando como unidade central de processamento, um celular android ChiaoMi Note 8, 4 motores de drone e como controlador de motores, comunicação e sonsoriamento externo, um arduino nano.
 
-~~1. Teste de motores (concluido)~~
-  1.1 Modelagem e impressão de suporte de teste
-  1.2 Criação do Circuito de testes
-  1.3 Testes
-  1.4 Resultados
+## Fases em andamento:
+
+ 1. Conjunto de Controle
+
+    1.1. App Android PhexAndroid (em andamento)
+
+    1.2. Scatch arduino PhexArduino 
+
+    1.3. Cicuito Eletrônico (em andamento)
+
+ 2. Modelagem de estrutuda do drone hexacoptero para voo vertical limitado por cabo guia.
+
+    2.1. Modelagem 3d e impressão (modelo: Phex-v1 Prototipo de Hexacoptero Versão 1)
+  
+        2.1.1. Ponta de acoplamento do motor (concluido)
+   
+        2.1.2. Corpo Central (concluido)
+   
+        2.1.3. Limitador de curso (concluido)
+    
+        2.1.4. Acoplador de pouso e decolagem guiado (conscluido)
+    
+        2.1.5. Ciscuito de controle (em andamento)
+    
+        2.1.6. Testes
+   
+        2.1.7. Resultados
+
+~~3. Teste de motores~~ (concluido)
+    
+    3.1 Modelagem e impressão de suporte de teste
+    
+    3.2 Criação do Circuito de testes
+    
+    3.3 Testes
+    
+    3.4 Resultados
 
 Equipe de desenvolvimento
 Ativos
