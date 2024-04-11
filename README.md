@@ -3,7 +3,15 @@
 Repositorio de desenvolvimento de drones de pulverização de baixo custo.
 Aqui você encontrará a memória de desenvolvimento da tecnologia de construção de drones hexacopteros de pulverização, assim como documentação e demais informações que permitirão a reprodução deste projeto.
 
-O Objetivo geral do projeto é construir um drone de pulverização usando como unidade central de processamento, um celular android ChiaoMi Note 8, 4 motores de drone e como controlador de motores, comunicação e sonsoriamento externo, um arduino nano.
+O Objetivo geral do projeto é construir um drone de pulverização usando como unidade central de processamento, um celular android Xiaomi Redmi Note 8, 4 motores de drone e como controlador de motores, comunicação e sensoriamento, um arduino nano.
+## Parceiros
+
+<div style="display: flex;">
+ 
+ <image src="https://www.facom.ufms.br/wp-content/uploads/2017/09/grafo_facom.png)" width="100"/>
+ <image src="https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/CNPq_v2017_rgb.jpg" width="100"/>
+
+</div>
 
 ## Fases em andamento:
 
