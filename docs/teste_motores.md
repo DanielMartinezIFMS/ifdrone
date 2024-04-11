@@ -4,8 +4,8 @@
 
 O motor foi acoplado ao prototipo, unido por parafusos e fixado por um torno/morsa de bancada.
 Ao eixo do motor foi acoplado um disco, sendo pontuado nesse disco uma pastilha de neodimio.
-Ao braço do prototipo foi fixado um sensor de efeito raw, capaz de identificar o numero de rotações por minuto do motor.
-Ao chacis do motor foi acoplado um sensor de temperatura.
+Ao braço do prototipo foi fixado um sensor de efeito hall (ky003) , capaz de identificar o numero de rotações por minuto do motor.
+Ao chassi do motor foi acoplado um sensor de temperatura (dht11).
 um arduino foi ligado ao motor e aos sensores, conectado ao computador por usb.
 
 ## Recursos
@@ -77,6 +77,5 @@ Considerando os dados abaixo, pode-se observar uma redução no numero rpm após
 
 ## Memória
 
-- Não houve sucesso utilizando sensor infravermelhor e nem mesmo com sensor laser.
-- A velocidade do motor impedia a contagem correta.
+- Não houve sucesso utilizando sensor infravermelho em par, nem sensor IR acoplado e nem mesmo com sensor laser, devido a acentuada velocidade do motor que impedia a contagem correta.
 - Para uma melhor contagem fez-se uso do comando atachInterrupt para capturar a passagem da pastilha de neodimio em frente ao sensor hall.
