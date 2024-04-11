@@ -37,11 +37,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
   </td>
   </tr>
   <tr>
-    <td colspan="3">
+  <td colspan="3">
 
 ![esquema_teste_rpm_temperatura](https://github.com/DanielMartinezIFMS/ifdrone/assets/80930367/6c2553ce-7f51-405e-9a7d-9d70ba22ba98)
 
-    </td>
+  </td>
   </tr>
   </tbody>
 </table>
