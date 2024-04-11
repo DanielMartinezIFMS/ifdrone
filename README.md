@@ -33,7 +33,7 @@ O Objetivo geral do projeto é construir um drone de pulverização usando como 
    
         2.1.7. Resultados
 
-~~3. Teste de motores~~ (concluido)
+3. [Teste de motores](docs/teste_motores.md) (concluido)
     
     3.1 Modelagem e impressão de suporte de teste
     
