@@ -25,9 +25,10 @@ um arduino foi ligado ao motor e aos sensores, conectado ao computador por usb.
   </td>
   <td>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DHbbZP4LOAc
+<!--a href="http://www.youtube.com/watch?feature=player_embedded&v=DHbbZP4LOAc
 " target="_blank"><img src="http://img.youtube.com/vi/DHbbZP4LOAc/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /-->
+Indisponivel
       
   </td>
   <td>
