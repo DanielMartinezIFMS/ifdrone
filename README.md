@@ -1,5 +1,5 @@
 
-# ifdrone
+# PHex
 Repositorio de desenvolvimento de drones de pulverização de baixo custo.
 Aqui você encontrará a memória de desenvolvimento da tecnologia de construção de drones hexacopteros de pulverização, assim como documentação e demais informações que permitirão a reprodução deste projeto.
 
