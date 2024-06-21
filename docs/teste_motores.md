@@ -1,4 +1,4 @@
-# Teste de Motores
+# Teste de Velocidade e Temperatura de Motores 
 
 ## Descrição
 
@@ -7,6 +7,10 @@ Ao eixo do motor foi acoplado um disco, sendo pontuado nesse disco uma pastilha 
 Ao braço do prototipo foi fixado um sensor de efeito hall (ky003) , capaz de identificar o numero de rotações por minuto do motor.
 Ao chassi do motor foi acoplado um sensor de temperatura (dht11).
 um arduino foi ligado ao motor e aos sensores, conectado ao computador por usb.
+
+## Tipo de Motor
+
+Motor com escovas, 8v dc (sucata de drone)
 
 ## Recursos
 
