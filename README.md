@@ -162,9 +162,9 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
     6.4 Resultados (concluido)
 
    
-##Equipe de desenvolvimento
+## Equipe de desenvolvimento
 
-Docentes:
+### Docentes:
 
   Coordenador Pesquisador: Daniel Cristaldo Martinez
   
@@ -174,7 +174,7 @@ Docentes:
   
   Professor Pesquisador: Lucas
   
-Discentes:
+### Discentes:
 
   2023 até a presente data - Giuliano
   
@@ -184,9 +184,9 @@ Historico de Participação
 
   Rafael (2023), Natalia(2022), Matheus (2022)
 
-##Historico de atualização (10 ultimos)
+## Historico de atualização (10 ultimos)
 
-###2024
+### 2024
 
 06/21 Atualização da equipe e registro de acionamento de motores.
 
