@@ -18,122 +18,175 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
 </div>
 
 ## Fases em andamento:
- 6. Georreferenciamento e Análise por Visão Computacional
+
+ 0. Voo Inalgural (Set/2025)
+
+ 1. Georreferenciamento e Análise por Visão Computacional
     
-    6.1. Mapeamento de terreno
+    1.1. Mapeamento de terreno
     
-    6.2. Georreferenciamento
+    1.2. Georreferenciamento
 
-    6.3. Análise por Coleta de Dados
+    1.3. Análise por Coleta de Dados
 
-    6.3. Análise por visão computacional 
+    1.4. Análise por visão computacional 
     
- 5. Editor de Plano de Voo, telemetria e controle
+ 2. Editor de Plano de Voo, telemetria e controle
 
-    5.1. Comunicação lora
+    2.1. Comunicação lora
 
-    5.2. Protocolo de comunicação drone x notebook
+    2.2. Protocolo de comunicação drone x notebook
 
-    5.3. Georreferenciamento da area alvo
+    2.3. Georreferenciamento da area alvo
 
-    5.4. Criação do plano de voo
+    2.4. Criação do plano de voo
 
-    5.5. Criação do plano de pulverização por cruzamento de dados
+    2.5. Criação do plano de pulverização por cruzamento de dados
 
-    5.6. Telemetria e controle
+    2.6. Telemetria e controle
 
-         5.6.1. Decolar
+         2.6.1. Decolar
 
-         5.6.2. Mover ao inicio do plano de voo
+         2.6.2. Mover ao inicio do plano de voo
 
-         5.6.3. Realizar Plano de Voo
+         2.6.3. Realizar Plano de Voo
 
-              5.6.3.1. Detectar obstáculo, pairar e informar por telemetria
+              2.6.3.1. Detectar obstáculo, pairar e informar por telemetria
 
-              5.6.3.2. Ajustar plano de voo por obstáculo (manual)
+              2.6.3.2. Ajustar plano de voo por obstáculo (manual)
 
-              5.6.3.3. Ajustar plano de voo por obstáculo (autonomo)
+              2.6.3.3. Ajustar plano de voo por obstáculo (autonomo/ia)
 
-              5.6.3.4. Ajustar trajetoria por deslocamento de ar
+              2.6.3.4. Ajustar trajetoria por deslocamento de ar
 
-              5.6.3.5. Retornar a base
+              2.6.3.5. Retornar a base (movel ou fixa)
 
-         5.6.4. Retornar a base por starvation
+         2.6.4. Retornar a base por starvation
     
-         5.6.4. Pousar
+         2.6.4. Pousar
     
-         5.6.5. Retomar plano de voo incompleto
+         2.6.5. Retomar plano de voo incompleto
 
-         5.6.6. Pouso emergencial por falha
+         2.6.6. Pouso emergencial por falha
 
-         5.6.7. Plano de voo para multiplos drones combinados
+         2.6.7. Plano de voo para multiplos drones combinados
 
-         5.6.8. Ajuste de pulverização por visão computacional de tempo real
+         2.6.8. Ajuste de pulverização por visão computacional de tempo real
     
     
- 4. Conjunto de Controle (Em andamento)
+ 3. Conjunto de Controle (Em andamento)
 
-    4.1. App Android PhexAndroid (em andamento)
-
-    4.2. Protocolo de Comunicação Android x arduino (em andamento)
-    
-    4.2. Scatch arduino PhexArduino 
-
-    4.3. Cicuito Eletrônico (em andamento)
-    
-
- 3. Modelagem de estrutuda do drone hexacoptero para voo vertical limitado por cabo guia. (parcialmente completo)
-
-    3.1. Modelagem 3d e impressão (modelo: Phex-v1 Prototipo de Hexacoptero Versão 1)
+    3.1. App Android PhexAndroid (em andamento)
   
-        3.1.1. Ponta de acoplamento do motor (concluido)
+    3.2. Scatch arduino PhexArduino 
+
+    3.3. Cicuito Eletrônico (em andamento)
+    
+
+ 5. Modelagem de estrutuda do drone hexacoptero para voo vertical limitado por cabo guia. (parcialmente completo)
+
+    4.1. Modelagem 3d e impressão (modelo: Phex-v1 Prototipo de Hexacoptero Versão 1)
+  
+        4.1.1. Ponta de acoplamento do motor (concluido)
    
-        3.1.2. Corpo Central (concluido)
+        4.1.2. Corpo Central (concluido)
    
-        3.1.3. Limitador de curso (concluido)
+        4.1.3. Limitador de curso (concluido)
     
-        3.1.4. Acoplador de pouso e decolagem guiado (concluido)
+        4.1.4. Acoplador de pouso e decolagem guiado (concluido)
     
-        3.1.5. Ciscuito de controle (em andamento)
+        4.1.5. Circuito de controle (em andamento)
     
-        3.1.6. Testes 
+            4.1.5.1. Integração com barometro
+
+            4.1.5.1. Integração com sensor de distancia
+
+            4.1.5.1. Integração com sensor de proximidade
+
+        4.1.6. App Android de Controle
+
+           4.1.6.1. Integração com GPS
+
+           4.1.6.1. Integração com Câmera Foto
+
+           4.1.6.1. Integração com Câmera Vídeo
+
+           4.1.6.1. Integração com Barometro
+
+           4.1.6.1. Integração com Acelerometro e Giroscopio
+    
+           4.1.6.1. Integração com Magnetometro
+
+        4.1.6. Integração Android x arduino
+
+
+        4.1.6. Testes
+
+            4.1.6.1. Voo Vertical (guiado)
+    
+                4.1.6.1.1. Decolar 
+                4.1.6.1.2. Subir 
+                4.1.6.1.3. Pairar
+                4.1.6.1.4. Descer
+                4.1.6.1.5. Pousar
+                4.1.6.1.6. girar horario
+                4.1.6.1.7. girar antiorario
+                4.1.6.1.8. teste sem guia
+
+            4.1.6.2. Voo Horizontal (contido por braço e giroscopio)
+
+                4.1.6.1.1. avançar 
+                4.1.6.1.2. mudar direção
+                4.1.6.1.3. retroceder
+
+        4.1.7. Resultados
+
+6. [Teste de velocidade e temperatura de motores](docs/teste_motores.md) (concluido)
+    
+    5.1 Modelagem e impressão de suporte de teste (concluido)
+    
+    5.2 Criação do Circuito de testes (concluido)
+    
+    5.3 Testes (corrigir)
+    
+    5.4 Resultados (parcial)
+
+7. [Teste de acionamento de motores](docs/teste_acionamento.md) (concluido)
+
+    6.1 Modelagem e impressão de suporte (concluido)
+
+    6.2 Criação do Circuito e Scatch controlador (concluido)
+
+    6.3 Testes (concluido)
+
+    6.4 Resultados (concluido)
+
    
-        3.1.7. Resultados
+##Equipe de desenvolvimento
 
-2. [Teste de velocidade e temperatura de motores](docs/teste_motores.md) (concluido)
-    
-    2.1 Modelagem e impressão de suporte de teste
-    
-    2.2 Criação do Circuito de testes
-    
-    2.3 Testes
-    
-    2.4 Resultados
+Docentes:
 
-1. [Teste de acionamento de motores] (docs/teste_acionamento.md) (concluido)
-
-    2.1 Modelagem e impressão de suporte
-
-    2.2 Criação do Circuito e Scatch controlador
-
-    2.3 Testes
-
-    2.4 Resultados
-
-   
-Equipe de desenvolvimento
-Ativos
   Coordenador Pesquisador: Daniel Cristaldo Martinez
+  
   Professor Pesquisador: Carlos Cacho
+  
   Professor Pesquisador: Willian
+  
   Professor Pesquisador: Lucas
   
-Alunos:
+Discentes:
+
   2023 até a presente data - Giuliano
+  
   2023 até a presente data - Arthur
 
 Historico de Participação
+
   Rafael (2023), Natalia(2022), Matheus (2022)
 
-Historico de atualização (10 ultimos)
+##Historico de atualização (10 ultimos)
+
+###2024
+
+06/21 Atualização da equipe e registro de acionamento de motores.
 06/13 Criação do repositorio e carga de dados iniciais.
