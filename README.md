@@ -189,4 +189,5 @@ Historico de Participação
 ###2024
 
 06/21 Atualização da equipe e registro de acionamento de motores.
+
 06/13 Criação do repositorio e carga de dados iniciais.
