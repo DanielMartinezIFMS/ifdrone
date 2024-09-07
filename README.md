@@ -80,14 +80,14 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
 
     3.1. App Android PhexAndroid (em andamento)
   
-    3.2. Scatch arduino PhexArduino 
+    3.2. Scatch arduino PhexArduino (em andamento)
 
     3.3. Cicuito Eletrônico (concluido)
     
 
  5. Modelagem de estrutuda do drone hexacoptero para voo vertical limitado por cabo guia. (parcialmente completo)
 
-    4.1. Modelagem 3d e impressão (modelo: Phex-v1 Prototipo de Hexacoptero Versão 1)
+    4.1. Modelagem 3d e impressão (modelo: Phex-v1 Prototipo de Hexacoptero Versão 1) 
   
         4.1.1. Ponta de acoplamento do motor (concluido)
    
@@ -101,25 +101,25 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
     
             4.1.5.1. Integração com barometro (concluido)
 
-            4.1.5.1. Integração com sensor de distancia (
+            4.1.5.1. Integração com sensor de distancia (proxima fase)
 
-            4.1.5.1. Integração com sensor de proximidade
+            4.1.5.1. Integração com sensor de proximidade (proxima fase) 
 
-        4.1.6. App Android de Controle
+        4.1.6. App Android de Controle (em andamento)
 
-           4.1.6.1. Integração com GPS
+           4.1.6.1. Integração com GPS (proxima fase)
 
-           4.1.6.1. Integração com Câmera Foto
+           4.1.6.1. Integração com Câmera Foto (proxima fase)
 
-           4.1.6.1. Integração com Câmera Vídeo
+           4.1.6.1. Integração com Câmera Vídeo (proxima fase)
 
-           4.1.6.1. Integração com Barometro
+           4.1.6.1. Integração com Barometro (em andamento)
 
-           4.1.6.1. Integração com Acelerometro e Giroscopio
+           4.1.6.1. Integração com Acelerometro e Giroscopio (concluido)
     
-           4.1.6.1. Integração com Magnetometro
+           4.1.6.1. Integração com Magnetometro (concluido)
 
-        4.1.6. Integração Android x arduino
+        4.1.6. Integração Android x arduino (em andamento)
 
 
         4.1.6. Testes
@@ -192,6 +192,10 @@ Historico de Participação
 ## Historico de atualização (10 ultimos)
 
 ### 2024
+
+07/09 Registro de Voo Vertical
+
+08/16 Registro de Testes com motores.
 
 06/21 Atualização da equipe e registro de acionamento de motores.
 
