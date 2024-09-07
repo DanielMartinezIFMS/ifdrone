@@ -142,9 +142,10 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
                 4.1.6.1.3. retroceder
 
         4.1.7. Resultados
-
+<details>
+ <summary>
 6. [Teste de velocidade e temperatura de motores](docs/teste_motores.md) (concluido)
-    
+ </summary>   
     5.1 Modelagem e impressão de suporte de teste (concluido)
     
     5.2 Criação do Circuito de testes (concluido)
@@ -152,9 +153,11 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
     5.3 Testes (corrigir)
     
     5.4 Resultados (parcial)
-
+</details>
+<details>
+ <summary>
 7. [Teste de acionamento de motores](docs/teste_acionamento.md) (concluido)
-
+</summary>
     6.1 Modelagem e impressão de suporte (concluido)
 
     6.2 Criação do Circuito e Scatch controlador (concluido)
@@ -162,7 +165,7 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
     6.3 Testes (concluido)
 
     6.4 Resultados (concluido)
-
+</details>
    
 ## Equipe de desenvolvimento
 
