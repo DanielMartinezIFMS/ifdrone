@@ -3,7 +3,7 @@
 Repositorio de desenvolvimento de drones de pulverização de baixo custo.
 Aqui você encontrará a memória de desenvolvimento da tecnologia de construção de drones hexacopteros de pulverização, assim como documentação e demais informações que permitirão a reprodução deste projeto.
 
-O Objetivo geral do projeto é construir um drone de pulverização usando como unidade central de processamento, um celular android Xiaomi Redmi Note 8, 4 motores de drone e como controlador de motores, comunicação e sensoriamento, um arduino nano.
+O Objetivo geral do projeto é construir um drone de pulverização usando como unidade central de processamento, um celular android Xiaomi Redmi Note 8, 6 motores de drone e como controlador de motores, comunicação e sensoriamento, um arduino nano.
 
 Todas as informações deste repositorio e demais repositorios do projeto são de dominio público, todos os softwares são de codigo livre e aberto sob licença GNU GPLv3.
 
@@ -32,8 +32,10 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
 
     1.4. Análise por visão computacional 
  </details>   
+ <details>
+  <summary>
  2. Editor de Plano de Voo, telemetria e controle
-
+</summary>
     2.1. Comunicação lora
 
     2.2. Protocolo de comunicação drone x notebook
@@ -73,9 +75,8 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
          2.6.7. Plano de voo para multiplos drones combinados
 
          2.6.8. Ajuste de pulverização por visão computacional de tempo real
-    
-    
- 3. Conjunto de Controle (Em andamento)
+</details>
+  3. Conjunto de Controle (Em andamento)
 
     3.1. App Android PhexAndroid (em andamento)
   
