@@ -20,9 +20,10 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
 ## Fases em andamento:
 
  0. Voo Inalgural (Set/2025)
-
+<details>
+ <summary>
  1. Georreferenciamento e Análise por Visão Computacional
-    
+    </summary>
     1.1. Mapeamento de terreno
     
     1.2. Georreferenciamento
@@ -30,7 +31,7 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
     1.3. Análise por Coleta de Dados
 
     1.4. Análise por visão computacional 
-    
+ </details>   
  2. Editor de Plano de Voo, telemetria e controle
 
     2.1. Comunicação lora
@@ -80,7 +81,7 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
   
     3.2. Scatch arduino PhexArduino 
 
-    3.3. Cicuito Eletrônico (em andamento)
+    3.3. Cicuito Eletrônico (concluido)
     
 
  5. Modelagem de estrutuda do drone hexacoptero para voo vertical limitado por cabo guia. (parcialmente completo)
@@ -97,9 +98,9 @@ Todas as informações deste repositorio e demais repositorios do projeto são d
     
         4.1.5. Circuito de controle (em andamento)
     
-            4.1.5.1. Integração com barometro
+            4.1.5.1. Integração com barometro (concluido)
 
-            4.1.5.1. Integração com sensor de distancia
+            4.1.5.1. Integração com sensor de distancia (
 
             4.1.5.1. Integração com sensor de proximidade
 
